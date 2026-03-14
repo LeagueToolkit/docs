@@ -9,6 +9,7 @@
 - [Managing Mods](Managing-Mods)
 - [Profiles](Profiles)
 - [Patching](Patching)
+- [How Patching Works](How-Patching-Works)
 - [Settings](Settings)
 - [Migration from cslol-manager](Migration)
 

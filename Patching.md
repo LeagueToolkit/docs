@@ -2,6 +2,8 @@
 
 Patching is the process of applying your enabled mods to League of Legends. LTK Manager builds an overlay of all enabled mod files and injects them into the game.
 
+For a deeper look at what overlays are, how file redirection works, and why this approach keeps your game files safe, see [How Patching Works](How-Patching-Works).
+
 ## How Patching Works
 
 The patching process has two main phases:
